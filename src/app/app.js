@@ -5,6 +5,8 @@ import Header from './components/header';
 import Footer from './components/footer';
 import Home from './components/home';
 
+const css = require('./assets/styles.scss');
+
 render(
     (
         <div>
