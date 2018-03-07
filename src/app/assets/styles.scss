@@ -1,23 +1,5 @@
-*{
-    margin: 0;
-    padding: 0
-}
-html{
-    width: 100%;
-    min-height: 100%;
-}
-body{
-    background: url('./images/bg.jpg') center center no-repeat;
-    background-size: cover;
-    width: 100%;
-    min-height: 100%;
-    header{
-        background: blue;
-        color: #fff;
-    }
-    
-    footer{
-        background: black;
-        color: #fff;
-    }
-}
+@import './styles/customizations',
+        './styles/variable',
+        './styles/header',
+        './styles/footer',
+        './styles/home';
