@@ -1,0 +1,119 @@
+body{
+    background: url('./images/carnew.jpg') top center no-repeat;
+    background-attachment: fixed;
+    font-size: 13px;
+    input{
+        font-size: 13px;
+    }
+}
+
+#header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding: 25px 0;
+    @include transition;
+    &.fixed{
+        padding: 10px 0;
+        background: $blue;
+    }
+}
+
+.header-logo{
+    height: 40px;
+}
+
+.nav-menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    a{
+        text-decoration: none;
+        &:hover{
+            text-decoration: none;
+        }
+    }
+    > li{
+        float: left;
+        position: relative;
+        &:hover{
+            > a{
+                // color: $blue;
+            }
+            .sub{
+                pointer-events: unset;
+                opacity: 1;
+                top: 100%;
+            }
+        }
+        > a{
+            display: block;
+            color: #fff;
+            font-size: 13px;
+            padding: 15px 20px;
+            @include transition;
+            i{
+                margin-left: 5px;
+                font-size: 12px;
+                color: #fff;
+                opacity: 0.5;
+            }
+        }
+    }
+    .sub{
+        position: absolute;
+        top: 150%;
+        left: 0;
+        background: #fff;
+        pointer-events: none;
+        opacity: 0;
+        @include transition(.2s);
+        min-width: 200px;
+        li{
+            padding: 0 10px;
+            &:not(:last-child){
+                a{
+                    border-bottom: 0.5px solid #333;
+                }
+            }
+            a{
+                @include transition();
+                white-space: nowrap;
+                color: #333;
+                display: block;
+                padding: 10px;
+                font-size: 13px;
+            }
+            &:hover{
+                a{
+                    color: $blue;
+                }
+            }
+        }
+    }
+}
+
+nav{
+    ul{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+.search-header{
+    margin-left: 30px;
+    color: #fff;
+    i{
+        font-size: 12px;
+        margin-right: 5px;
+    }
+    input{
+        color: #fff;
+        margin-left: 5px;
+        background: none;
+        border: none;
+        width: 200px;
+    }
+}

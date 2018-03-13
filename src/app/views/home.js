@@ -25,6 +25,381 @@ class Home extends React.Component {
                         <div className="p-2">Flex item</div>
                         <div className="ml-auto p-2">Flex item</div>
                     </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="mr-auto p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                    </div>
+
+                    <div className="d-flex">
+                        <div className="p-2">Flex item</div>
+                        <div className="p-2">Flex item</div>
+                        <div className="ml-auto p-2">Flex item</div>
+                    </div>
                     
                     <button type="button" className="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
                         Launch demo modal

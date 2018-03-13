@@ -1,0 +1,33 @@
+input{
+    outline: none;
+}
+
+input::-webkit-input-placeholder {
+    color: white;
+}
+
+/* WebKit, Blink, Edge */
+
+input:-moz-placeholder {
+    color: white;
+}
+
+/* Mozilla Firefox 4 to 18 */
+
+input::-moz-placeholder {
+    color: white;
+}
+
+/* Mozilla Firefox 19+ */
+
+input:-ms-input-placeholder {
+    color: white;
+}
+
+/* Internet Explorer 10-11 */
+
+input::-ms-input-placeholder {
+    color: white;
+}
+
+/* Microsoft Edge */

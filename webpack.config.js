@@ -115,6 +115,7 @@ module.exports = {
             $: 'jquery',
             jQuery: 'jquery',
             'window.jQuery': 'jquery',
+            "window.Tether": "tether",
             Popper: ['popper.js', 'default'],
             Util: 'exports-loader?Util!bootstrap/js/dist/util'
         })
